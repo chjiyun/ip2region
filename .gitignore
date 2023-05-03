@@ -1,0 +1,6 @@
+*.exe
+*.db
+*.log
+.idea
+tmp/
+ip2region
